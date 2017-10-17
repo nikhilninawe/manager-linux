@@ -1,0 +1,18 @@
+React
+
+npm install --save react-redux redux
+npm install --save firebase
+npm install --save-dev eslint-config-rallycoding
+npm install --save redux-thunk
+npm install --save react-native-router-flux
+npm install --save lodash
+npm install --save react-native-communications
+
+
+{
+  "extends": "rallycoding",
+  "rules": {
+      "arrow-body-style": 0
+  }
+}
+
